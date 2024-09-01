@@ -11,7 +11,6 @@ def generate_4_digit_code():
 # Generate the codes
 three_digit_code = generate_3_digit_code()
 four_digit_code = generate_4_digit_code()
-
 # Print the results
 print("3-digit combination lock code:", three_digit_code)
 print("4-digit combination lock code:", four_digit_code)
