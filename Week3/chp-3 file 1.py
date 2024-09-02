@@ -1,4 +1,4 @@
-height = float(input("Enter amount of money: "))
+height = float(input("Enter your height: "))
 if height >=178:
     print("You are tall.")
     if height <163:
